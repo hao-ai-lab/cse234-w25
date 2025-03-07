@@ -14,7 +14,7 @@ Mar 4
 
 Mar 6
 : **18**{: .label} Guest Lecture
-  : [Slides]() &#8226; [Recording]() &#8226; Scribe Note
+  : [Slides]() &#8226; [Recording](https://drive.google.com/drive/u/1/folders/1vKUc5xmVE0T90K4nL13CVzDb9yrFDfgE) &#8226; Scribe Note
 
 
 
