@@ -6,7 +6,7 @@ status: Active
 
 Feb 4
 : **9**{: .label} Quantization
-  : [Slides](assets/slides/feb4.pdf) &#8226; [Recording](https://podcast.ucsd.edu/watch/wi25/cse234_a00/8) &#8226; Scribe Note
+  : [Slides](assets/slides/feb4.pdf) &#8226; [Recording](https://podcast.ucsd.edu/watch/wi25/cse234_a00/8) &#8226; [Scribe Note](assets/scribe_notes/feb_4_scribe.pdf)
 
 : **Readings**{: .label .label-reading} **(Due 2/11)**
   * **Required**: [5.1 - Deep Compression](https://arxiv.org/abs/1510.00149), [5.2 - Quantization Survey](https://arxiv.org/abs/2103.13630)
