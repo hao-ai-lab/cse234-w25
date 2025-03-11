@@ -8,8 +8,8 @@ Mar 11
 : **1**{: .label} LLM - 3: Continuous batching, paged attention, Disaggreged prefill and decoding 
   : [Slides](assets/slides/mar11.pdf) &#8226; Recording &#8226; Scribe Notes
 : *Reading:*
-* **Required**: None
-* **Optional**: [9.1 - Situational Awareness AI](https://situational-awareness.ai/)
+  * **Required**: None
+  * **Optional**: [9.1 - Situational Awareness AI](https://situational-awareness.ai/)
 
 
 
