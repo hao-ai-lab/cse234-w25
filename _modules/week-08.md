@@ -13,4 +13,4 @@ Feb 25
 
 Feb 27
 : **16**{: .label} LLM - 1: transformers, attention
-  : [Slides](assets/slides/feb27.pdf) &#8226; [Recording](https://podcast.ucsd.edu/watch/wi25/cse234_a00/15) &#8226; Scribe Note
+  : [Slides](assets/slides/feb27.pdf) &#8226; [Recording](https://podcast.ucsd.edu/watch/wi25/cse234_a00/15) &#8226; [Scribe Note](assets/scribe_notes/feb27_scribe.pdf)
