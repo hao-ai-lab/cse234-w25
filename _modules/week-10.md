@@ -17,4 +17,3 @@ Mar 11
 Mar 13
 : **2**{: .label} LLM - 4: flash attention, deepseek-v3 review
   : Slides &#8226; Recording &#8226; Scribe Notes
-: *Reading:* 
