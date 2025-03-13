@@ -5,7 +5,7 @@ status: Active
 ---
 
 Mar 11
-: **1**{: .label} LLM - 3: Continuous batching, paged attention, Disaggreged prefill and decoding 
+: **19**{: .label} LLM - 3: Continuous batching, paged attention, Disaggreged prefill and decoding 
   : [Slides](assets/slides/mar11.pdf) &#8226; Recording &#8226; Scribe Notes
 : *Reading:*
   * **Required**: None
@@ -15,5 +15,5 @@ Mar 11
 
 
 Mar 13
-: **2**{: .label} LLM - 4: flash attention, deepseek-v3 review
-  : Slides &#8226; Recording &#8226; Scribe Notes
+: **20**{: .label} LLM - 4: flash attention, deepseek-v3 review, ending words
+  : [Slides](assets/slides/mar13.pdf) &#8226; Recording &#8226; Scribe Notes
