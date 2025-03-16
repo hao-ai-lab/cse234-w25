@@ -14,4 +14,4 @@ Feb 4
 
 Feb 6
 : **10**{: .label} Guest Lecture by Tianqi Chen
-  : [Slides](assets/slides/feb6.pdf) &#8226; [Recording](https://drive.google.com/file/d/1nRh5R8iEt0I7zEFuN5sAIEcioCwGBloV/view?usp=sharing) &#8226; Scribe Note
+  : [Slides](assets/slides/feb6.pdf) &#8226; [Recording](https://drive.google.com/file/d/1nRh5R8iEt0I7zEFuN5sAIEcioCwGBloV/view?usp=sharing) &#8226; [Scribe Note](assets/scribe_notes/feb6_scribe.pdf)
