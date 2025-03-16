@@ -9,7 +9,7 @@ Mar 11
   : [Slides](assets/slides/mar11.pdf) &#8226; [Recording](https://podcast.ucsd.edu/watch/wi25/cse234_a00/18) &#8226; Scribe Notes
 : *Reading:*
   * **Required**: None
-  * **Optional**: [9.1 - Situational Awareness AI](https://situational-awareness.ai/)
+  * **Optional**: [10.1 - Situational Awareness AI](https://situational-awareness.ai/)
 
 
 
