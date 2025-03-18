@@ -13,4 +13,4 @@ Feb 11
 
 Feb 13
 : **12**{: .label} Parallelization - 2, collective communication
-  : [Slides](assets/slides/feb13.pdf) &#8226; [Recording](https://podcast.ucsd.edu/watch/wi25/cse234_a00/11) &#8226; [Scribe Note]()
+  : [Slides](assets/slides/feb13.pdf) &#8226; [Recording](https://podcast.ucsd.edu/watch/wi25/cse234_a00/11) &#8226; [Scribe Note](assets/scribe_notes/feb13_scribe.pdf)
