@@ -16,4 +16,4 @@ Mar 11
 
 Mar 13
 : **20**{: .label} LLM - 4: flash attention, deepseek-v3 review, ending words
-  : [Slides](assets/slides/mar13.pdf) &#8226; [Recording](https://podcast.ucsd.edu/watch/wi25/cse234_a00/19) &#8226; Scribe Notes
+  : [Slides](assets/slides/mar13.pdf) &#8226; [Recording](https://podcast.ucsd.edu/watch/wi25/cse234_a00/19) &#8226; [Scribe Notes](assets/scribe_notes/mar13_scribe.pdf)
