@@ -13,5 +13,5 @@ Feb 18
 
 Feb 20
 : **14**{: .label} Guest Lecture by Hector Liu
-  : [Slides](assets/slides/feb20.pdf) &#8226; [Recording](https://drive.google.com/file/d/1DLO-xCIIxUOsfv-WMidEMvSUkuKR8V83/view?usp=sharing); Scribe Note
+  : [Slides](assets/slides/feb20.pdf) &#8226; [Recording](https://drive.google.com/file/d/1DLO-xCIIxUOsfv-WMidEMvSUkuKR8V83/view?usp=sharing); [Scribe Note](assets/scribe_notes/feb20_scribe.pdf)
   
